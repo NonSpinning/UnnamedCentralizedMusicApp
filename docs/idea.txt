@@ -15,8 +15,12 @@ Specifications & Features:
 + App will open the requiered app, and then play the song requested.
 + Overall or for each section, you can play the songs in a random order, excluding the flagged ones if requested.
 + Songs on youtube will notify you if the song gets taken down and asked for the link to be replaced.
++ Ability to make a queue
++ App shows you a selection of random songs so you can choose what you'd like on a queue
++ Import songs from spotify and youtube playlists/libraries(?)
 
 Cool features that might be too hard:
 + Music genre automatically looked up.
 + Make a stadistics page to show interesting info. (might require a listening history)
 + Different display modes for the songs (Grid, list, bigger grid)
++ AI that recommends queues based on listening habits
